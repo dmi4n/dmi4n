@@ -12,9 +12,10 @@ Un apasionado por la tecnologia y Front-End Developer.
 <div align="left"> 
   <h3> 👨🏻‍💻 Sobre Mi </h3>
 
-  - 🌱 &nbsp; Aprendiendo Javascript, React y NodeJS
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - 🌱 &nbsp; Aprendiendo Javascript, React y NodeJS.
+  - 💪 &nbsp; Me desafio todos los dias a programar al menos 4 horas.
+  - 🏆 &nbsp; Mi meta es aprender muchas tecnologias y crecer como desarrollador.
+  - 📫 &nbsp; Contactame **soto.damian02@gmail.com**
 </div> 
 </div>
 
